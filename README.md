@@ -8,9 +8,9 @@ the titles of those images, store the scraped data on a Mongo database, use a we
 of the web app to accommodate these images.
 
 ## Purpose: 
-To scrape the Full-Resolution Mars Hemisphere Images and titles
-To update the Web App with Mars Hemisphere Images and titles
-To incorporate two additional Bootstrap 3 Components
+##### To scrape the Full-Resolution Mars Hemisphere Images and titles
+##### To update the Web App with Mars Hemisphere Images and titles
+##### To incorporate two additional Bootstrap 3 Components
 
 ## Results: 
 ![Map](MissionToMars.PNG)
@@ -18,6 +18,6 @@ To incorporate two additional Bootstrap 3 Components
 ## Updated the web App with Mars’s Hemisphere Image and Titles
 ![Map](Images_titles.PNG)
 
-## Bootstrap 3 components added
+## Bootstrap component added
 iPhone x mobile responsive  
 ![Map](Mobile_Responsive.PNG)
